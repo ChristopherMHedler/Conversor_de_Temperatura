@@ -31,7 +31,8 @@ Bash
 cd nome-do-seu-repositorio
 Abra o arquivo index.html no seu navegador de preferência.
 
-Demonstração
+Demonstração:
+
 (https://christophermhedler.github.io/Conversor_de_Temperatura/)
 
 Autor
