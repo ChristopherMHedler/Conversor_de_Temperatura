@@ -33,7 +33,7 @@ Abra o arquivo index.html no seu navegador de preferência.
 
 Demonstração
 Se o seu projeto estiver hospedado no GitHub Pages ou em outro serviço, você pode adicionar um link aqui.
-[[Link para o projeto no ar](URL-do-seu-projeto)](https://christophermhedler.github.io/Conversor_de_Temperatura/)
+(https://christophermhedler.github.io/Conversor_de_Temperatura/)
 
 Autor
 Christopher Michelangelo Hedler
