@@ -32,7 +32,6 @@ cd nome-do-seu-repositorio
 Abra o arquivo index.html no seu navegador de preferência.
 
 Demonstração
-Se o seu projeto estiver hospedado no GitHub Pages ou em outro serviço, você pode adicionar um link aqui.
 (https://christophermhedler.github.io/Conversor_de_Temperatura/)
 
 Autor
