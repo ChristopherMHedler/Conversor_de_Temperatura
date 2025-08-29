@@ -1,0 +1,30 @@
+body{
+    align-items: center;
+    text-align: center;
+    font-family: Helvetica, Arial, sans-serif;
+    margin-top: 50px;    
+    color: #333;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 300px;
+    margin: auto;
+    border: 2px solid #4CAF50;
+    background-color: #e8e9f5;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+
+
+
+h1{
+  font-family: "Great Vibes", cursive;
+  font-weight: 400;
+  font-style: normal;
+  color: #4CAF50;
+  margin-bottom: 20px;   
+}
+ 

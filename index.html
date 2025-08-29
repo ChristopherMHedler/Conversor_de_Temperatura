@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Conversor de Temperatura</title>
+    <link rel="stylesheet" href="styles.css">
+   <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+
+
+
+</head>
+
+<body>
+    <h1 src=".poppins-thin" >Conversor de Temperatura</h1>
+
+    <label for="temperatura">Digite a temperatura:</label>
+    <input type="number" id="temperatura">
+
+    <br><br>
+
+    <label for="unidadeOrigem">Unidade de origem:</label>
+    <select id="unidadeOrigem" name="unidadeOrigem">
+        <option value="celsius">Celsius</option>
+        <option value="fahrenheit">Fahrenheit</option>
+        <option value="kelvin">Kelvin</option>
+    </select>
+
+    <br><br>
+
+    <label for="unidadeDestino">Unidade de destino:</label>
+    <select id="unidadeDestino" name="unidadeDestino">
+        <option value="celsius">Celsius</option>
+        <option value="fahrenheit">Fahrenheit</option>
+        <option value="kelvin">Kelvin</option>
+    </select>
+
+    <p>O resultado da conversão é: <span id="resultado"></span></p>
+
+    <button id="btnConverter" onclick="converter()">Converter</button>
+
+    <script src="script.js"></script>
+
+</body>
+
+</html>
